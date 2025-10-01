@@ -1,4 +1,5 @@
 # Internship Project: User Registration & Profile System
+https://phpguvi.netlify.app/
 
 ## Problem Statement
 Create a signup page where a user can register and a login page to log in with the details provided during registration.  
@@ -82,6 +83,8 @@ hcl_guvi/
 5. Register a new user and test login/profile functionalities  
 
 ---
+## Deployed in Netlify
+https://phpguvi.netlify.app/
 
 ## Screenshots / Images
 1. Index.html
